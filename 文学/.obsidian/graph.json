@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "line:(出口)",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "line:(层级二)",
+      "color": {
+        "a": 1,
+        "rgb": 14224792
+      }
+    },
+    {
+      "query": "美国",
+      "color": {
+        "a": 1,
+        "rgb": 11580658
+      }
+    },
+    {
+      "query": "英国",
+      "color": {
+        "a": 1,
+        "rgb": 15641258
+      }
+    },
+    {
+      "query": "主题与切入点",
+      "color": {
+        "a": 1,
+        "rgb": 962374
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.07800854700855,
+  "lineSizeMultiplier": 2.23882905982906,
+  "collapse-forces": false,
+  "centerStrength": 0.398205128205128,
+  "repelStrength": 10.5774324562953,
+  "linkStrength": 0.749249514391665,
+  "linkDistance": 173,
+  "scale": 0.3880518702750235,
+  "close": true
+}

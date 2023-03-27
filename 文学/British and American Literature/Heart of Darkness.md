@@ -1,0 +1,13 @@
+- the sailor Charles Marlow
+- Kurtz
+	-  the natives worship Kurtz
+- critique of European **colonial** rule in Africa, whilst also examining the themes of power dynamics and morality
+- #Colonialism 
+- there is little difference between "civilized people" and "savages."
+- The Hypocrisy of **Imperialism**
+	- Africans become for Marlow a mere backdrop, a human screen against which he can play out his philosophical and existential struggles. Their existence and their exoticism enable his self-contemplation
+- Is there such thing as insanity in a world that has already gone insane?
+- 在认识kurtz的过程，我们将他的madness和社会的madness进行对比，究竟是谁疯了？
+- 非洲在这里是一面镜子
+	- Africans become for Marlow a mere backdrop, a human screen against which he can play out his philosophical and existential struggles.
+	- Their existence and their exoticism enable his self-contemplation

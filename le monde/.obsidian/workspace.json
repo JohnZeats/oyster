@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "77519425711a9d80",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f1cef0b070a0e2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba04026c3742652c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la Réalité/2023年的现实.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c8caf9c532563dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Le Journal/20230327.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1942efb9370cdf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c63ffc49695ef96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cddab9a041714f23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "a543911c4c695ec1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "b8e0acd13c82caaf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0064f3bfbcaa92b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "58b752e044a3a2ab",
+        "type": "tabs",
+        "dimension": 45.875542691751086,
+        "children": [
+          {
+            "id": "f5dda90e50ed154a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Le Journal/20230327.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d48f2dc23c3fd36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Le Journal/20230327.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7882f879196aa578",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0c82b6e1115e94c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f88bf2f4ea612217",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "eec79fd827e60893",
+        "type": "tabs",
+        "dimension": 54.12445730824892,
+        "children": [
+          {
+            "id": "af3773cf299cf159",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Le Journal/20230327.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "bc88b00ce6b12a17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Le Journal/20230327.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "7c8caf9c532563dd",
+  "lastOpenFiles": [
+    "Le Journal/20230326.md",
+    "Le Journal/20230327.md",
+    "Le Journal/20230325.md",
+    "Le Journal/20230319.md",
+    "Le Journal/20230324.md",
+    "Test_of_self_conscious/职业路径.md",
+    "la Réalité/2023年的现实.md",
+    "la Réalité/其他人的职业路径.md",
+    "la Réalité/Ozymandias.md",
+    "Le Journal/20230131.md",
+    "起点.canvas",
+    "看板.md",
+    "Le Journal/20230222.md",
+    "Le Journal/20230320.md",
+    "L'écriture/流行文化.md",
+    "L'écriture/日本文化.md",
+    "L'écriture/文学的意义.md",
+    "L'écriture/男性社会与女性力量.md",
+    "Le Journal/20230129.md",
+    "Le Journal/20230217.md",
+    "Le Journal/20230308.md",
+    "Le Journal/20230302.md",
+    "Le Journal/20230316.md",
+    "Le Journal/20230315.md",
+    "Le Journal/20230322.md",
+    "Le Journal/20230323.md",
+    "Le Journal/20230321.md",
+    "Test_of_self_conscious",
+    "Files External/Pasted image 20230315230008.png",
+    "Files External/Pasted image 20230315215455.png",
+    "Files External/Pasted image 20230315214811.jpg",
+    "Files External/Pasted image 20230315214753.jpg"
+  ]
+}

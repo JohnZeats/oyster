@@ -1,0 +1,1 @@
+- Taking its name from Sir Thomas More’s 1516 novel _Utopia,_ the genre of utopian novels posit that suffering can be eradicated through the perfection of society.

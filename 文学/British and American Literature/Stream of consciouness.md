@@ -1,0 +1,4 @@
+- [[James Joyce]]
+- [[Virginia Woolf]]
+- [[William Faulkner]]
+- [[Henry James]]

@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "e7130e96bc660080",
+    "type": "split",
+    "children": [
+      {
+        "id": "e909cc4adee59680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a994dfd9c0db630",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "dd478afef7913e5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "British and American Literature/研究方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c6caf20c72347e2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bbf97466369bd1e8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4970344c5c5b2c04",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5611a20d082ff6e9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d52d88c5b4ccee87",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d6ad11cfecd8a17e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "fa060d1a9396dfce",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "British and American Literature/研究方法.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "937f0f868ac6af29",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "British and American Literature/研究方法.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "active": "dd478afef7913e5d",
+  "lastOpenFiles": [
+    "British and American Literature/Poetry.md",
+    "British and American Literature/Wallace Stevens.md",
+    "British and American Literature/centre.md",
+    "centre.md",
+    "British and American Literature/南大题型.md",
+    "British and American Literature/南大2022.md",
+    "British and American Literature/研究方法.md",
+    "British and American Literature/Fiction.md",
+    "British and American Literature/词汇.md",
+    "British and American Literature/James Joyce.md"
+  ]
+}

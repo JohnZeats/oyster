@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "e7130e96bc660080",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a994dfd9c0db630",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "80a236ee7e935929",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "British and American Literature/Araby.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2d2f8281bcb8061",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff390aed1b047f17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c809bae309a2c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1bbf418761acce11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ostran",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a435aac757cfe41c",
+    "type": "split",
+    "children": [
+      {
+        "id": "886171b2bb3e17eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6401aee4be9bb218",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "69572d5e8939b8b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "British and American Literature/Araby.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db232f465c59d680",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59a43ec073486c4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "British and American Literature/Araby.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "80a236ee7e935929",
+  "lastOpenFiles": [
+    "centre.md",
+    "British and American Literature/James Joyce.md",
+    "British and American Literature/Araby.md",
+    "British and American Literature/Fiction.md",
+    "British and American Literature/The Beat Generation.md",
+    "British and American Literature/Dubliners.md",
+    "British and American Literature/Theory.md",
+    "British and American Literature/Ostranenie.md",
+    "British and American Literature/Viktor Shklovsky.md",
+    "British and American Literature/Viktor.md"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "1aa26e24d241d5c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e169af58ddac57bf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "British and American Literature/研究方法.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e850c050dde6635d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d64b2519de458f8f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4f31e93f00394eeb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "41d9d1236ef2c32d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "672081ba11f5dc4b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "British and American Literature/研究方法.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e169af58ddac57bf",
+  "lastOpenFiles": [
+    "British and American Literature/研究方法.md"
+  ]
+}

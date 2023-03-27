@@ -1,0 +1,223 @@
+{
+  "data": {
+    "table-id-yPHFr3": {
+      "model": {
+        "columnIds": [
+          "column-id-hcnTvvyD"
+        ],
+        "rowIds": [
+          "row-id-UbCWBJZ0",
+          "row-id-PxHcckh9"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-p4dAi2QU",
+            "columnId": "column-id-hcnTvvyD",
+            "rowId": "row-id-UbCWBJZ0",
+            "markdown": "New Column",
+            "html": "New Column",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-VyzD4OZn",
+            "columnId": "column-id-hcnTvvyD",
+            "rowId": "row-id-PxHcckh9",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-hcnTvvyD": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-UbCWBJZ0": {
+            "creationDate": 1670409102708
+          },
+          "row-id-PxHcckh9": {
+            "creationDate": 1670409102709
+          }
+        }
+      },
+      "pluginVersion": 505
+    },
+    "table-id-lv5w6y": {
+      "model": {
+        "columnIds": [
+          "column-id-R5npHLwQ",
+          "column-id-pONqY2Ce",
+          "column-id-CgCQz4JI",
+          "column-id-rMW9XrFp"
+        ],
+        "rowIds": [
+          "row-id-mcaTfskE",
+          "row-id-DTAJsd05",
+          "row-id-tZD2zh6U"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-AAoct0cy",
+            "columnId": "column-id-R5npHLwQ",
+            "rowId": "row-id-mcaTfskE",
+            "markdown": "Name",
+            "html": "Name",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-xJ1MMK0x",
+            "columnId": "column-id-pONqY2Ce",
+            "rowId": "row-id-mcaTfskE",
+            "markdown": "Form",
+            "html": "Form",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-ycKh5y4f",
+            "columnId": "column-id-CgCQz4JI",
+            "rowId": "row-id-mcaTfskE",
+            "markdown": "Theme and Ideas",
+            "html": "Theme and Ideas",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-B0PihV5K",
+            "columnId": "column-id-rMW9XrFp",
+            "rowId": "row-id-mcaTfskE",
+            "markdown": "Character and Plot",
+            "html": "Character and Plot",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-MUQ3Lrro",
+            "columnId": "column-id-R5npHLwQ",
+            "rowId": "row-id-DTAJsd05",
+            "markdown": "[[The Triumph of the Egg]]",
+            "html": "<a class=\"internal-link\" data-href=\"The Triumph of the Egg\" href=\"The Triumph of the Egg\" target=\"_blank\" rel=\"noopener\">The Triumph of the Egg</a>",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-3rd0A17F",
+            "columnId": "column-id-pONqY2Ce",
+            "rowId": "row-id-DTAJsd05",
+            "markdown": "First-person",
+            "html": "First-person",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-pxoGpsbP",
+            "columnId": "column-id-CgCQz4JI",
+            "rowId": "row-id-DTAJsd05",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-dymuFEYU",
+            "columnId": "column-id-rMW9XrFp",
+            "rowId": "row-id-DTAJsd05",
+            "markdown": "Narrated retrospectively by the nameless son, now an adult, the story of his father contains in its first paragraph the seeds of the unhappy tale that follows:His father, says the narrator, was perfectly happy with his life as a farmhand until he learned ambition. Quite logically, the son suggests that the father probably learned this American trait when he married, late in life, the taciturn schoolteacher who induced her new husband to start a chicken farm.",
+            "html": "Narrated retrospectively by the nameless son, now an adult, the story of his father contains in its first paragraph the seeds of the unhappy tale that follows:His father, says the narrator, was perfectly happy with his life as a farmhand until he learned ambition. Quite logically, the son suggests that the father probably learned this American trait when he married, late in life, the taciturn schoolteacher who induced her new husband to start a chicken farm.",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-njlShEY4",
+            "columnId": "column-id-R5npHLwQ",
+            "rowId": "row-id-tZD2zh6U",
+            "markdown": "fadsd",
+            "html": "fadsd",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-1GOt1ZNr",
+            "columnId": "column-id-pONqY2Ce",
+            "rowId": "row-id-tZD2zh6U",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-dqcplDmH",
+            "columnId": "column-id-CgCQz4JI",
+            "rowId": "row-id-tZD2zh6U",
+            "markdown": "sdfsd",
+            "html": "sdfsd",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-3mj4tE43",
+            "columnId": "column-id-rMW9XrFp",
+            "rowId": "row-id-tZD2zh6U",
+            "markdown": "sdf",
+            "html": "sdf",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-R5npHLwQ": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-pONqY2Ce": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-CgCQz4JI": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-rMW9XrFp": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-mcaTfskE": {
+            "creationDate": 1670409713462
+          },
+          "row-id-DTAJsd05": {
+            "creationDate": 1670409713463
+          },
+          "row-id-tZD2zh6U": {
+            "creationDate": 1670409722221
+          }
+        }
+      },
+      "pluginVersion": 505
+    }
+  },
+  "tableFolder": "_notion-like-tables",
+  "viewModeSync": {
+    "tableId": "table-id-lv5w6y",
+    "viewModes": [],
+    "eventType": "update-state"
+  },
+  "shouldClear": false,
+  "shouldDebug": false
+}

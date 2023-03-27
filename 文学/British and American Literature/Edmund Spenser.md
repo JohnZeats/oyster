@@ -1,0 +1,1 @@
+The verse has nine lines and the rhyme plan is ababbcbcc. This verse is known as the ‘Spenserian Stanza’.

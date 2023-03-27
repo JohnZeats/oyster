@@ -1,0 +1,1 @@
+why this is a novel but not an story? Anything novel?

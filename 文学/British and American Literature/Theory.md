@@ -1,0 +1,113 @@
+层级二
+
+- 要再看一遍书，分别整理主要理论的代表人物的观点，paraphrase，以及在实践分析中的例子，比如说Eliot分析的Hamlet，Bloom理解的Shakespeare，([Guerin 2005](zotero://open-pdf/library/items/5DFVY3L3?page=13))这本书里面的时间分析的例子，
+
+- **Plato**
+	- form and representation, 洞穴隐喻
+- **Poetics of Aristotle**
+	- Catharsis 净化
+	- Canon of Tragedy 悲剧
+- **Matthew Arnold**
+	- the function of literature
+- **Negative capability**: John Keats
+- **Henry James**: Point of views
+- Forster
+- **Allan Poe**: effect
+- **Ernest Hemingway**: iceberg theory, langage style
+- **[[Romanticism]]**
+	- poetry is the spontaneous overflow of powerful feelings, takes its origin from emotion recollected in tranquility
+- **Dark Romanticism**
+	- Allan Poe, Baudelaire, William Blake
+- **Inwardness of Kierkegaard**
+	- subjective truth that interlinked with one's living choice is not objective and positive, but ultimately inward
+- **Aestheticism**
+	- art for art sake
+	- Oscar Wilde
+- **Imagism**
+	- choice of word, depiction of images, 
+- **[[Modernism]]**
+- **[[New Criticism]]: 
+	- **Intentional fallacy**, objective correlative, tradition and individual talent, the indepence of literature, textual analysis,
+	- William Empson wrote in his influential book _Seven Types of Ambiguity_ (1930), “The machinations of ambiguity are among the very roots of poetry.”
+- **[[Structuralism and Poststructuralism]]**
+	- based on the linguistic study of Saussure, signified and signifier are separated
+	- Intertextuality
+- **[[Michel Foucault]]** and New Historicism
+	- in his poststructuralist stance, the signifying process is not disinterested from economic, political, and ideological and social control,
+- **Formalism**
+	- [[Viktor Shklovsky]]
+	- [[Ostranenie]](Defamiliarization)
+	- Bahktin
+		- Dialectic nature, Carnival, polyphonic writing
+- **[[Feminisms]]**: 
+	- [[Julia Kristeva]], 
+		- écrire femine
+		- pre-symbolic order 
+- **[[Marxism]]**: 
+	- Terry Egaleton, the religious function of english literature 
+	- **Louis Althusser**
+		- 个体是被社会征召的
+			- He argues that we are all ‘subjects’ of ideology which operates by summoning us to take our places in the social structure.
+		- 
+- **[[Geneva school of phenomenological criticism]]**
+	- the consciousness study
+- **Reader Response:** 
+- **[[Cultural Studies]]**
+- **[[Psychoanalysis]]**: 
+	- **Freudian**, 
+		- desire, libido, 
+		- Oedipus complex, 
+		- unconsciousness and subconsciousness, Id, Ego, Super Ego,
+			- 主体的不一致性
+	- **Lacan**: 
+		- questions the humanist notion of **a substantial and unified subjectivity** (an illusion derived from the pre-Oedipal ‘imaginary’ phase of childhood)
+		- Lacan conceives **the subject as a permanently unstable entity**, split between the conscious life of the ‘ego’ and the unconscious life of ‘desire’.
+		- symbolic order,  
+		- fear of castration, 
+		- The unconscious is constructed by a language
+		- **the imaginary** is the world of immediate sensory perceptions,
+		- **the symbolic** is based on language and gives meaning to everything around us,
+		- **the real** is whatever else there is that is devoid of meaning.
+	- Carl **Jung**: [[Archetype study]]
+	- **[[Julia Kristeva]]:** 
+		- traits of female writing
+		- **abjection** 拒斥
+			- the abject refers to the human reaction (horror, vomit) to a threatened breakdown in meaning caused by the loss of the distinction between subject and object or between self and other.
+- **[[Postmodernism]]**
+	- [[Guille Deleuze]]
+	- 拟像
+	- Copy without origin
+- **[[Postcolonial Studies]]**
+	- 霍米巴巴
+		- 杂糅叙事
+- [[Posthumanism]]
+	- **[[Bernard Stiegler]]**
+		- 普遍的无产阶级化
+		- 技术扮演的角色
+- Dostoyevsky
+	- The Brothers Karamazov里的宗教问题 Ivan
+		- 如果人人有面包，谁还会关心
+		- Symbolic Death of Dmitri 
+			- Dmitri is exiled in Siberia
+		- 一个Byronic Hero 
+	- Faithful Alyosha, Zosima
+- Bible
+	- The narrow door parable
+	- God is word, word is god
+		- Linguistic approach
+	- the slaves' escape from Egypt in **Exodus** (Grapes of Wrath, From the east to the west, Oklahoma-California)
+- Patrick Modiano
+	- Rue des Boutiques obscures（_**Missing Person**_）
+		- Guy Roland is an [amnesiac](https://en.wikipedia.org/wiki/Amnesiac "Amnesiac") 失忆的detective who lost his memory
+		- The novel accompanies Roland as he tries to **retrace his past to figure out who he really is**. **Every time he perceives a clue to his identity, it fades into the memory of someone else.** 在自我的记忆里总是有他者的在位
+		- By investigating his past step by step, the narrator tries to reconstitute a puzzle that has been blown away by **the Occupation and the Holocaust.** 创伤性的记忆使得他无法认识从前的自己
+- Hermann Hesse
+	- 荒原狼 Steppenwolf
+		- 心理剧场
+		- The title of this "real" book-in-the-book is _Harry Haller's Records (For Madmen Only)_
+	- Siddhartha
+		- The path to spiritual enlightenment
+
+
+
+

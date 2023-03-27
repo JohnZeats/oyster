@@ -1,0 +1,144 @@
+{
+  "aestheticStyle": "glass",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:editor:toggle-bold",
+      "name": "cMenu: Toggle bold",
+      "icon": "bold-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-highlight",
+      "name": "cMenu: Toggle highlight",
+      "icon": "highlight-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-bullet-list",
+      "name": "cMenu: Toggle bullet",
+      "icon": "bullet-list-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "cmenu-plugin:underline",
+      "name": "cMenu: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
+      "id": "cmenu-plugin:codeblock",
+      "name": "cMenu: Toggle codeblock",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-blockquote",
+      "name": "cMenu: Toggle blockquote",
+      "icon": "quote-glyph"
+    },
+    {
+      "id": "obsidian-emoji-toolbar:emoji-picker:open-picker",
+      "name": "Emoji Toolbar: Open emoji picker",
+      "hotkeys": [],
+      "icon": "bot-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-wikilink",
+      "name": "cMenu: Add internal link",
+      "icon": "bracket-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-link",
+      "name": "cMenu: Insert markdown link",
+      "icon": "link-glyph"
+    },
+    {
+      "id": "app:go-back",
+      "name": "返回",
+      "icon": "left-arrow-with-tail",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Alt"
+          ],
+          "key": "ArrowLeft"
+        }
+      ]
+    },
+    {
+      "id": "app:go-forward",
+      "name": "前进",
+      "icon": "right-arrow-with-tail",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Alt"
+          ],
+          "key": "ArrowRight"
+        }
+      ]
+    },
+    {
+      "id": "global-search:open",
+      "name": "搜索: 在所有文件中搜索",
+      "icon": "search-glyph",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Shift"
+          ],
+          "key": "F"
+        }
+      ]
+    },
+    {
+      "id": "cmenu-plugin:editor:insert-embed",
+      "name": "cMenu: Add embed",
+      "icon": "note-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-comments",
+      "name": "cMenu: Toggle comment",
+      "icon": "percent-sign-glyph"
+    },
+    {
+      "id": "switcher:open",
+      "name": "快速切换: 打开快速切换",
+      "icon": "lucide-navigation",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "O"
+        }
+      ]
+    },
+    {
+      "id": "editor:open-search",
+      "name": "在当前笔记中查找",
+      "icon": "lucide-search",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "F"
+        }
+      ]
+    }
+  ],
+  "appendMethod": "body",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 9
+}

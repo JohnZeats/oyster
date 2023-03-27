@@ -1,0 +1,5 @@
+- Anthony Burgess
+- published in 1962, UK
+- [[Science-fiction]]
+- post-war British
+- free will 

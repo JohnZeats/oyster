@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "看板",
+      "path": "看板.md"
+    },
+    {
+      "type": "file",
+      "title": "2023年的现实",
+      "path": "la Réalité/2023年的现实.md"
+    },
+    {
+      "type": "file",
+      "title": "职业路径",
+      "path": "Test_of_self_conscious/职业路径.md"
+    }
+  ]
+}

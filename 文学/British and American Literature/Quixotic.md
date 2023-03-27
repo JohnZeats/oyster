@@ -1,0 +1,3 @@
+- From the character **Don Quixote** in the novel by Miguel de Cervantes, whose adventures are a result of him trying to achieve or obtain things that are impossible. 
+- having or involving ideas or plans that show imagination but are usually **not practical**
+- Over-idealism 

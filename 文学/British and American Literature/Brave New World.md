@@ -1,0 +1,21 @@
+- [[Dystopian]]
+- [[Science-fiction]]
+- #Colonialism 
+- 黑客帝国，雪国列车，龙虾，对神的批判，银翼杀手[[Blade Runner]]，索拉里斯
+- 人的社会分工是被提前决定的，为了幸福和社会和谐
+	- suffering and pain have been eradicated at the price of personal autonomy
+	- Citizens are programmed to be productive and complaisant through a combination of biological manipulation, psychological conditioning, and a drug called **soma**.
+		- 这种制造幻觉掩盖现实的痛苦的索玛soma和iceman cometh里面的pipe dream有同样的作用，无法认识现实
+		- the only truly content characters are those who have **blinded themselves to the reality** of their situation by taking drugs
+	- **The World State** emerges as the **antagonist** of the novel, a sinister force that prevents characters from achieving meaningful happiness or free will.
+	- 与莎士比亚眼里的人的本质相悖
+	- 有的人的存在是为了性交和繁衍， **Linda** was ostracized because of her willingness to sleep with all the men in the village
+	- The Alpha embryos are destined to become the leaders and thinkers of the World State.
+	- Delta infants being reprogrammed to **dislike books and flowers**, this make Deltas **docile and eager consumers**
+	- The Epsilons, stunted and stupefied by oxygen deprivation and chemical treatments, are destined to perform menial labor.
+- **John** reads Helmholtz parts of **Romeo and Juliet**, but **Helmholtz** cannot keep himself from laughing at a serious passage about love, marriage, and parents—ideas that are **ridiculous, almost scatological** in World State culture.
+	- showing the dark, dangerous side of human emotions and morality.
+- 设置了一个他者文化和形象，这里的他者文化是savage，远视的传统的人文信仰，而John作为一个中间者，展开对主人文化的观察
+- 这里的女性Linda是男性眼中的泛快感的脱离秩序的象征，一个混乱的代表生命本初的力量的象征，passion, erotic, vital, negative, abandoned, hysteria, hallucinated, 
+- **dehumanizing** effects of technology,
+- 

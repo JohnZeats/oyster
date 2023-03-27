@@ -1,0 +1,7 @@
+- premiered in London in 1955
+- [[Existentialism]]
+- Vladimir and Estragon
+- a depiction of the pointless, uneventful, and repetitive nature of modern life
+- 这个故事为什么是有意义的？
+	- 在主体不同一的前提下，二战，
+	- 形式与内容高度统一，捕捉了一种人生无意义的时代精神？

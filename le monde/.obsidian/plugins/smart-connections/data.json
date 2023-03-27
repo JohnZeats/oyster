@@ -1,0 +1,20 @@
+{
+  "api_key": "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",
+  "file_exclusions": "",
+  "folder_exclusions": "Files External,La Littérature et La Langue,Anti-classification,Le Journal,L'écriture,La Philosophie",
+  "header_exclusions": "",
+  "path_only": "Test_of_self_conscious",
+  "show_full_path": false,
+  "expanded_view": false,
+  "group_nearest_by_file": true,
+  "log_render": false,
+  "log_render_files": false,
+  "skip_sections": false,
+  "smart_chat_model": "gpt-3.5-turbo",
+  "results_count": 30,
+  "view_open": true,
+  "version": "1.2.8",
+  "failed_files": [
+    "la Réalité/2023年的现实.md"
+  ]
+}

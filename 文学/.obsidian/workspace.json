@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "e7130e96bc660080",
+    "type": "split",
+    "children": [
+      {
+        "id": "321f78a0e5de701f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "955c2ec2e72bdc13",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2d2f8281bcb8061",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff390aed1b047f17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c809bae309a2c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bbf418761acce11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a435aac757cfe41c",
+    "type": "split",
+    "children": [
+      {
+        "id": "886171b2bb3e17eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6401aee4be9bb218",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "69572d5e8939b8b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db232f465c59d680",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3af106d9a635da2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4900fbe4270faa45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "955c2ec2e72bdc13",
+  "lastOpenFiles": [
+    "British and American Literature/Fiction.md",
+    "centre.md",
+    "British and American Literature/南大题型.md",
+    "British and American Literature/南大2023.md",
+    "British and American Literature/政治.md",
+    "British and American Literature/Poetry.md",
+    "British and American Literature/Long Day's Journey into Night.md",
+    "British and American Literature/Eugene O'Neil.md",
+    "British and American Literature/The Iceman Cometh.md",
+    "British and American Literature/Drama.md",
+    "British and American Literature/Trifles.md",
+    "British and American Literature/Theory.md"
+  ]
+}

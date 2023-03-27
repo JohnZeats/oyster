@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"la Réalité\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"Artistic Creation\"",
+      "color": {
+        "a": 1,
+        "rgb": 4528127
+      }
+    },
+    {
+      "query": "path:\"Le Journal\"",
+      "color": {
+        "a": 1,
+        "rgb": 11511719
+      }
+    },
+    {
+      "query": "path:moi",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:L'écriture",
+      "color": {
+        "a": 1,
+        "rgb": 2646004
+      }
+    },
+    {
+      "query": "path:\"La Philosophie\"",
+      "color": {
+        "a": 1,
+        "rgb": 2646004
+      }
+    },
+    {
+      "query": "file:看板",
+      "color": {
+        "a": 1,
+        "rgb": 16240198
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.3854623655914,
+  "lineSizeMultiplier": 1.59544086021505,
+  "collapse-forces": false,
+  "centerStrength": 0.282051282051282,
+  "repelStrength": 10,
+  "linkStrength": 0.987177255584566,
+  "linkDistance": 227,
+  "scale": 0.2702461790469828,
+  "close": true
+}

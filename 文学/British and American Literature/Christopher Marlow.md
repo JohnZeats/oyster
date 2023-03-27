@@ -1,0 +1,5 @@
+- Edward II
+- Tamburlaine the Great
+- The Jew of Malta
+- The Massacre at Paris
+- [[Doctor Faustus]]

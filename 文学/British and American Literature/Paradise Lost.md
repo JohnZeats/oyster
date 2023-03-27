@@ -1,0 +1,1 @@
+Satan as a hero

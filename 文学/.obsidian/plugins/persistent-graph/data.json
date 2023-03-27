@@ -1,0 +1,1240 @@
+{
+  "nodePositions": [
+    {
+      "id": "British and American Literature/A Clockwork Orange.md",
+      "x": -1243.3758544921875,
+      "y": -1194.0546875
+    },
+    {
+      "id": "British and American Literature/A Streetcar Named Desire.md",
+      "x": 259.481689453125,
+      "y": 334.3939208984375
+    },
+    {
+      "id": "British and American Literature/African American Literature.md",
+      "x": 1193.968994140625,
+      "y": 1594.2703857421875
+    },
+    {
+      "id": "British and American Literature/Allen Ginsberg.md",
+      "x": -751.593017578125,
+      "y": 1254.684326171875
+    },
+    {
+      "id": "British and American Literature/American Dream.md",
+      "x": -410.093994140625,
+      "y": -895.3339233398438
+    },
+    {
+      "id": "British and American Literature/American Post-modernism.md",
+      "x": -871.4530029296875,
+      "y": 1380.02001953125
+    },
+    {
+      "id": "British and American Literature/American Romanticism.md",
+      "x": -929.9609375,
+      "y": -675.1213989257812
+    },
+    {
+      "id": "British and American Literature/American Southern Literature.md",
+      "x": -747.27099609375,
+      "y": 494.58154296875
+    },
+    {
+      "id": "British and American Literature/American post-war and modern.md",
+      "x": -278.3399658203125,
+      "y": -1483.065185546875
+    },
+    {
+      "id": "Toni Morrison",
+      "x": -165.7551727294922,
+      "y": -1796.18701171875
+    },
+    {
+      "id": "Joseph Brodsky",
+      "x": -415.3951416015625,
+      "y": -1730.435302734375
+    },
+    {
+      "id": "British and American Literature/Anne Sexton.md",
+      "x": 845.2684936523438,
+      "y": -798.7571411132812
+    },
+    {
+      "id": "British and American Literature/Araby.md",
+      "x": -248.4921112060547,
+      "y": 1575.48486328125
+    },
+    {
+      "id": "British and American Literature/Archetype study.md",
+      "x": 684.3607177734375,
+      "y": 1353.8157958984375
+    },
+    {
+      "id": "British and American Literature/Arthur Miller.md",
+      "x": 1109.9908447265625,
+      "y": -814.1011962890625
+    },
+    {
+      "id": "British and American Literature/Before American Civil War.md",
+      "x": -930.6450805664062,
+      "y": 369.2513732910156
+    },
+    {
+      "id": "British and American Literature/Bernard Stiegler.md",
+      "x": 761.3681640625,
+      "y": 565.8095703125
+    },
+    {
+      "id": "British and American Literature/Bob Dylan.md",
+      "x": -257.9528503417969,
+      "y": -1719.3826904296875
+    },
+    {
+      "id": "British and American Literature/British Classic.md",
+      "x": -440.23583984375,
+      "y": 43.91012191772461
+    },
+    {
+      "id": "British and American Literature/British Modernism.md",
+      "x": -1098.4254150390625,
+      "y": 931.2440795898438
+    },
+    {
+      "id": "British and American Literature/British post-war and modern.md",
+      "x": -881.3479614257812,
+      "y": -1174.138671875
+    },
+    {
+      "id": "Harold Pinter",
+      "x": -898.1409301757812,
+      "y": -1539.8636474609375
+    },
+    {
+      "id": "Doris Lessing",
+      "x": -704.1517333984375,
+      "y": -1396.2095947265625
+    },
+    {
+      "id": "British and American Literature/Byronic hero.md",
+      "x": -657.8351440429688,
+      "y": -792.0526123046875
+    },
+    {
+      "id": "British and American Literature/Cat on a Hot Tin Roof.md",
+      "x": 1295.7283935546875,
+      "y": 86.74178314208984
+    },
+    {
+      "id": "British and American Literature/Catch-22.md",
+      "x": -595.9700927734375,
+      "y": 2056.739013671875
+    },
+    {
+      "id": "British and American Literature/Charlotte Bronte.md",
+      "x": -1649.3001708984375,
+      "y": -258.4881286621094
+    },
+    {
+      "id": "British and American Literature/Christopher Marlow.md",
+      "x": 1663.7021484375,
+      "y": -266.42022705078125
+    },
+    {
+      "id": "British and American Literature/Cultural Studies.md",
+      "x": 698.5601196289062,
+      "y": 1698.914794921875
+    },
+    {
+      "id": "British and American Literature/D. H. Lawrence.md",
+      "x": -412.65643310546875,
+      "y": 998.7940673828125
+    },
+    {
+      "id": "British and American Literature/Daniel Defoe.md",
+      "x": -830.401611328125,
+      "y": 69.49942779541016
+    },
+    {
+      "id": "British and American Literature/Death of a salesman.md",
+      "x": 210.7720489501953,
+      "y": -1112.72998046875
+    },
+    {
+      "id": "British and American Literature/Deire Under the Elms.md",
+      "x": 357.13360595703125,
+      "y": -1375.5338134765625
+    },
+    {
+      "id": "British and American Literature/Drama.md",
+      "x": 1443.404052734375,
+      "y": -428.4477844238281
+    },
+    {
+      "id": "Susan Glaspell",
+      "x": 1825.2401123046875,
+      "y": -145.1197052001953
+    },
+    {
+      "id": "Oscar Wilde",
+      "x": 1578.221923828125,
+      "y": -630.4375610351562
+    },
+    {
+      "id": "British and American Literature/Dubliners.md",
+      "x": -272.02655029296875,
+      "y": 1282.7147216796875
+    },
+    {
+      "id": "British and American Literature/Dylan Thomas.md",
+      "x": 609.8853149414062,
+      "y": -934.14404296875
+    },
+    {
+      "id": "British and American Literature/E.E. Cummings.md",
+      "x": 302.624755859375,
+      "y": -706.4208984375
+    },
+    {
+      "id": "British and American Literature/Edgar Allan Poe.md",
+      "x": -351.381591796875,
+      "y": -301.90313720703125
+    },
+    {
+      "id": "British and American Literature/Edith Wharton.md",
+      "x": -1788.875,
+      "y": 386.4223937988281
+    },
+    {
+      "id": "British and American Literature/Edmund Spenser.md",
+      "x": 1013.2001953125,
+      "y": -618.0909423828125
+    },
+    {
+      "id": "British and American Literature/Edward Albee.md",
+      "x": 1534.9464111328125,
+      "y": -1071.60400390625
+    },
+    {
+      "id": "British and American Literature/Elizabeth Bishop.md",
+      "x": 455.8639831542969,
+      "y": -2075.5107421875
+    },
+    {
+      "id": "British and American Literature/Emily Bronte.md",
+      "x": -1400.650146484375,
+      "y": -232.91294860839844
+    },
+    {
+      "id": "British and American Literature/Emily Dickinson.md",
+      "x": -398.8572998046875,
+      "y": -1066.8172607421875
+    },
+    {
+      "id": "British and American Literature/Ernest Hemingway.md",
+      "x": 47.36196517944336,
+      "y": -443.4819641113281
+    },
+    {
+      "id": "British and American Literature/Eugene O'Neil.md",
+      "x": 385.09368896484375,
+      "y": -1064.8094482421875
+    },
+    {
+      "id": "British and American Literature/Existentialism.md",
+      "x": 1089.2342529296875,
+      "y": -1264.9068603515625
+    },
+    {
+      "id": "British and American Literature/Expressionism.md",
+      "x": 674.5221557617188,
+      "y": -1792.74169921875
+    },
+    {
+      "id": "British and American Literature/Ezra Pound.md",
+      "x": 1042.7325439453125,
+      "y": -1516.7496337890625
+    },
+    {
+      "id": "British and American Literature/F. Scott Fitzgerald.md",
+      "x": -499.5542297363281,
+      "y": -406.1104431152344
+    },
+    {
+      "id": "British and American Literature/Feminisms.md",
+      "x": 1488.880615234375,
+      "y": 942.8948974609375
+    },
+    {
+      "id": "Kate Millett",
+      "x": 1739.4888916015625,
+      "y": 985.2374267578125
+    },
+    {
+      "id": "Betty Friedan",
+      "x": 1694.3009033203125,
+      "y": 1111.884765625
+    },
+    {
+      "id": "British and American Literature/Fiction.md",
+      "x": -664.1403198242188,
+      "y": -9.398083686828613
+    },
+    {
+      "id": "Samuel Richardson",
+      "x": -513.8338012695312,
+      "y": 188.66201782226562
+    },
+    {
+      "id": "Laurence Sterne",
+      "x": -943.1573486328125,
+      "y": 28.44976043701172
+    },
+    {
+      "id": "British and American Literature/Flannery O’Connor.md",
+      "x": -1953.0596923828125,
+      "y": -150.3478546142578
+    },
+    {
+      "id": "British and American Literature/Frame Story.md",
+      "x": -1078.293701171875,
+      "y": 313.3280944824219
+    },
+    {
+      "id": "British and American Literature/Frank O'Hara.md",
+      "x": 1454.7763671875,
+      "y": -1373.773193359375
+    },
+    {
+      "id": "British and American Literature/Geneva school of phenomenological criticism.md",
+      "x": 485.45458984375,
+      "y": 853.0289916992188
+    },
+    {
+      "id": "British and American Literature/George Bernard Shaw.md",
+      "x": 1764.1162109375,
+      "y": -480.66552734375
+    },
+    {
+      "id": "British and American Literature/George Elliot.md",
+      "x": -1922.1434326171875,
+      "y": 199.1187744140625
+    },
+    {
+      "id": "British and American Literature/George Gordon Byron.md",
+      "x": 193.19940185546875,
+      "y": -544.8118896484375
+    },
+    {
+      "id": "British and American Literature/George Orwell.md",
+      "x": -1326.7601318359375,
+      "y": 1130.8623046875
+    },
+    {
+      "id": "British and American Literature/Guille Deleuze.md",
+      "x": -815.2759399414062,
+      "y": 1046.25146484375
+    },
+    {
+      "id": "British and American Literature/Gulliver's Travel.md",
+      "x": -210.1204071044922,
+      "y": 312.56378173828125
+    },
+    {
+      "id": "British and American Literature/Hamlet.md",
+      "x": -516.6571044921875,
+      "y": -65.97319030761719
+    },
+    {
+      "id": "British and American Literature/Harlem Renaissance.md",
+      "x": 108.1639633178711,
+      "y": 575.190673828125
+    },
+    {
+      "id": "British and American Literature/Henry David Thoreau.md",
+      "x": -1427.7630615234375,
+      "y": -1532.9534912109375
+    },
+    {
+      "id": "British and American Literature/Henry James.md",
+      "x": -1652.748291015625,
+      "y": 679.939697265625
+    },
+    {
+      "id": "British and American Literature/Herman Melville.md",
+      "x": -1434.068359375,
+      "y": -884.9558715820312
+    },
+    {
+      "id": "British and American Literature/Humanism.md",
+      "x": -158.17787170410156,
+      "y": -90.36834716796875
+    },
+    {
+      "id": "Percy Bysshe Shelley",
+      "x": 159.9420928955078,
+      "y": 88.2874526977539
+    },
+    {
+      "id": "British and American Literature/Illusion.md",
+      "x": 219.24815368652344,
+      "y": -860.0599365234375
+    },
+    {
+      "id": "British and American Literature/Imagism.md",
+      "x": 897.5319213867188,
+      "y": -1188.2911376953125
+    },
+    {
+      "id": "British and American Literature/Impotence of Individual.md",
+      "x": -42.65729522705078,
+      "y": 822.7177124023438
+    },
+    {
+      "id": "British and American Literature/Impotent.md",
+      "x": 1145.4017333984375,
+      "y": -948.2478637695312
+    },
+    {
+      "id": "British and American Literature/Individualism.md",
+      "x": -936.0763549804688,
+      "y": -834.4075927734375
+    },
+    {
+      "id": "British and American Literature/J.D. Salinger.md",
+      "x": -325.11456298828125,
+      "y": -1818.8240966796875
+    },
+    {
+      "id": "British and American Literature/Jack London.md",
+      "x": -1260.2452392578125,
+      "y": 32.106266021728516
+    },
+    {
+      "id": "British and American Literature/James Joyce.md",
+      "x": -1188.964111328125,
+      "y": 1378.7989501953125
+    },
+    {
+      "id": "A Portrait of the Artist as a Young Man",
+      "x": -1388.14990234375,
+      "y": 1560.1448974609375
+    },
+    {
+      "id": "Ulysses",
+      "x": -1272.868408203125,
+      "y": 1637.640380859375
+    },
+    {
+      "id": "Finnegans Wake",
+      "x": -1454.0284423828125,
+      "y": 1439.7958984375
+    },
+    {
+      "id": "British and American Literature/Jane Austen.md",
+      "x": -1770.841796875,
+      "y": -342.46527099609375
+    },
+    {
+      "id": "British and American Literature/Jane Eyre.md",
+      "x": -1210.0732421875,
+      "y": -464.55560302734375
+    },
+    {
+      "id": "British and American Literature/John Ashbery.md",
+      "x": 1342.7835693359375,
+      "y": -1473.07373046875
+    },
+    {
+      "id": "British and American Literature/John Barth.md",
+      "x": -855.8609008789062,
+      "y": 1661.8907470703125
+    },
+    {
+      "id": "British and American Literature/John Donne.md",
+      "x": 837.8887939453125,
+      "y": -956.6615600585938
+    },
+    {
+      "id": "British and American Literature/John Dos Passos.md",
+      "x": -9.146553039550781,
+      "y": -780.6902465820312
+    },
+    {
+      "id": "British and American Literature/John Fowles.md",
+      "x": -657.5615844726562,
+      "y": 885.1884155273438
+    },
+    {
+      "id": "British and American Literature/John Galsworthy.md",
+      "x": 1678.9232177734375,
+      "y": -565.1758422851562
+    },
+    {
+      "id": "British and American Literature/John Steinbeck.md",
+      "x": -271.7678527832031,
+      "y": 801.4060668945312
+    },
+    {
+      "id": "British and American Literature/John Updike.md",
+      "x": 652.0558471679688,
+      "y": -2055.455810546875
+    },
+    {
+      "id": "British and American Literature/Johnathan Swift.md",
+      "x": -351.2479248046875,
+      "y": 168.46426391601562
+    },
+    {
+      "id": "British and American Literature/Joseph Conrad.md",
+      "x": -1353.859375,
+      "y": 1013.96435546875
+    },
+    {
+      "id": "British and American Literature/Joseph Heller.md",
+      "x": -724.2816162109375,
+      "y": 1841.67529296875
+    },
+    {
+      "id": "British and American Literature/Julia Kristeva.md",
+      "x": 1106.875732421875,
+      "y": 1789.79150390625
+    },
+    {
+      "id": "British and American Literature/Kazuo Ishiguro.md",
+      "x": -1061.71484375,
+      "y": -589.7691040039062
+    },
+    {
+      "id": "British and American Literature/Kurt Vonnegut.md",
+      "x": -975.6625366210938,
+      "y": 1668.6943359375
+    },
+    {
+      "id": "British and American Literature/Langston Hughes.md",
+      "x": 985.3109741210938,
+      "y": 1132.639404296875
+    },
+    {
+      "id": "British and American Literature/Long Day's Journey into Night.md",
+      "x": 16.34796905517578,
+      "y": -1140.7745361328125
+    },
+    {
+      "id": "British and American Literature/Lost Generation.md",
+      "x": -154.14480590820312,
+      "y": -593.8805541992188
+    },
+    {
+      "id": "Hart Crane",
+      "x": -67.91157531738281,
+      "y": -885.3121337890625
+    },
+    {
+      "id": "Gertrude Stein",
+      "x": -183.14761352539062,
+      "y": -918.773193359375
+    },
+    {
+      "id": "British and American Literature/Louise Glück.md",
+      "x": -99.2419662475586,
+      "y": -1678.150390625
+    },
+    {
+      "id": "British and American Literature/Macbeth.md",
+      "x": -260.2156066894531,
+      "y": -811.5319213867188
+    },
+    {
+      "id": "British and American Literature/Mark Twain.md",
+      "x": -628.4480590820312,
+      "y": 477.8778381347656
+    },
+    {
+      "id": "British and American Literature/Marxism.md",
+      "x": 218.9866180419922,
+      "y": 1558.024658203125
+    },
+    {
+      "id": "Louis Althusser",
+      "x": 143.0765838623047,
+      "y": 1844.637451171875
+    },
+    {
+      "id": "György Lukács",
+      "x": 257.9301452636719,
+      "y": 1809.8724365234375
+    },
+    {
+      "id": "Fredric Jameson",
+      "x": 51.45707702636719,
+      "y": 1767.14013671875
+    },
+    {
+      "id": "British and American Literature/Mattew Anord.md",
+      "x": 964.6217651367188,
+      "y": -744.671142578125
+    },
+    {
+      "id": "British and American Literature/Michel Foucault.md",
+      "x": 367.1491394042969,
+      "y": 981.9188232421875
+    },
+    {
+      "id": "British and American Literature/Moby Dick.md",
+      "x": -1057.7769775390625,
+      "y": -1351.04541015625
+    },
+    {
+      "id": "British and American Literature/Modernism.md",
+      "x": 9.485169410705566,
+      "y": 1157.5858154296875
+    },
+    {
+      "id": "British and American Literature/Modernity.md",
+      "x": -965.5829467773438,
+      "y": 610.3751220703125
+    },
+    {
+      "id": "British and American Literature/Narrative Archetype.md",
+      "x": -677.9405517578125,
+      "y": -1105.5084228515625
+    },
+    {
+      "id": "British and American Literature/Nathaniel Hawthorne.md",
+      "x": -1614.491943359375,
+      "y": -863.1602172851562
+    },
+    {
+      "id": "Soren Aabye Kierkegaard",
+      "x": -1889.5333251953125,
+      "y": -927.2296142578125
+    },
+    {
+      "id": "British and American Literature/Naturalism.md",
+      "x": -1652.522705078125,
+      "y": -105.5298080444336
+    },
+    {
+      "id": "British and American Literature/Nature.md",
+      "x": -1192.5377197265625,
+      "y": -1753.6993408203125
+    },
+    {
+      "id": "British and American Literature/Never Let Me Go.md",
+      "x": -1584.2154541015625,
+      "y": -551.731201171875
+    },
+    {
+      "id": "British and American Literature/New Criticism.md",
+      "x": 966.0068359375,
+      "y": 541.6084594726562
+    },
+    {
+      "id": "British and American Literature/New Historicism.md",
+      "x": 854.1644897460938,
+      "y": 1863.9150390625
+    },
+    {
+      "id": "British and American Literature/Oedipus complex.md",
+      "x": 291.4104309082031,
+      "y": 1280.3602294921875
+    },
+    {
+      "id": "British and American Literature/Ostranenie.md",
+      "x": 971.006591796875,
+      "y": 1281.612548828125
+    },
+    {
+      "id": "British and American Literature/Pamela.md",
+      "x": -1739.451416015625,
+      "y": 495.7685546875
+    },
+    {
+      "id": "British and American Literature/Paradise Lost.md",
+      "x": 250.67115783691406,
+      "y": -81.61607360839844
+    },
+    {
+      "id": "British and American Literature/Poetry.md",
+      "x": 677.73828125,
+      "y": -663.9783935546875
+    },
+    {
+      "id": "John Milton",
+      "x": 735.3048706054688,
+      "y": -884.7504272460938
+    },
+    {
+      "id": "Sylvia Plath",
+      "x": 931.8178100585938,
+      "y": -881.8716430664062
+    },
+    {
+      "id": "Dover Beach",
+      "x": 815.30224609375,
+      "y": -480.857177734375
+    },
+    {
+      "id": "The Flea",
+      "x": 894.1822509765625,
+      "y": -633.3988037109375
+    },
+    {
+      "id": "Robert Browning",
+      "x": 931.167236328125,
+      "y": -512.0850219726562
+    },
+    {
+      "id": "British and American Literature/Popular Culture.md",
+      "x": 640.5988159179688,
+      "y": 1949.8638916015625
+    },
+    {
+      "id": "British and American Literature/Postmodernism.md",
+      "x": 26.451208114624023,
+      "y": 1352.972412109375
+    },
+    {
+      "id": "British and American Literature/Pride and Prejudice.md",
+      "x": -1229.7137451171875,
+      "y": -693.765380859375
+    },
+    {
+      "id": "British and American Literature/Psychoanalysis.md",
+      "x": 476.6894836425781,
+      "y": 1132.1605224609375
+    },
+    {
+      "id": "British and American Literature/Psychological Realism.md",
+      "x": -1494.4259033203125,
+      "y": 290.88079833984375
+    },
+    {
+      "id": "British and American Literature/Puritanism.md",
+      "x": -1423.39306640625,
+      "y": -744.8086547851562
+    },
+    {
+      "id": "British and American Literature/Quixotic.md",
+      "x": 404.22454833984375,
+      "y": 559.4260864257812
+    },
+    {
+      "id": "British and American Literature/Ralph Ellison.md",
+      "x": 1411.8544921875,
+      "y": 1688.6063232421875
+    },
+    {
+      "id": "British and American Literature/Robert Lowell.md",
+      "x": 656.620849609375,
+      "y": -1348.276611328125
+    },
+    {
+      "id": "British and American Literature/Robinson Cursoe.md",
+      "x": -625.7556762695312,
+      "y": 231.94395446777344
+    },
+    {
+      "id": "British and American Literature/Romanticism.md",
+      "x": 427.63311767578125,
+      "y": -15.599218368530273
+    },
+    {
+      "id": "Samuel Taylor Coleridge",
+      "x": 675.163818359375,
+      "y": 49.64190673828125
+    },
+    {
+      "id": "Robert Southey",
+      "x": 642.4422607421875,
+      "y": 166.35479736328125
+    },
+    {
+      "id": "John Keats",
+      "x": 529.3638916015625,
+      "y": 211.35060119628906
+    },
+    {
+      "id": "British and American Literature/Samuel Beckett.md",
+      "x": 1875.18212890625,
+      "y": -691.1205444335938
+    },
+    {
+      "id": "British and American Literature/Saul Bellow.md",
+      "x": 125.42051696777344,
+      "y": -1824.9161376953125
+    },
+    {
+      "id": "British and American Literature/Seamus Heaney.md",
+      "x": -769.1248168945312,
+      "y": -1503.1878662109375
+    },
+    {
+      "id": "British and American Literature/Sherwood Anderson.md",
+      "x": -25.033702850341797,
+      "y": 420.32672119140625
+    },
+    {
+      "id": "British and American Literature/Simone de Beauvoir.md",
+      "x": 1577.3603515625,
+      "y": 1178.3809814453125
+    },
+    {
+      "id": "British and American Literature/Sons and Lovers.md",
+      "x": 169.49368286132812,
+      "y": 961.4039916992188
+    },
+    {
+      "id": "British and American Literature/Stream of consciouness.md",
+      "x": -1313.4903564453125,
+      "y": 736.0123901367188
+    },
+    {
+      "id": "British and American Literature/Structuralism and Poststructuralism.md",
+      "x": 928.9148559570312,
+      "y": 1621.5914306640625
+    },
+    {
+      "id": "Roland Barthes",
+      "x": 989.4684448242188,
+      "y": 1872.2330322265625
+    },
+    {
+      "id": "British and American Literature/T. S. Eliot.md",
+      "x": 1204.6529541015625,
+      "y": -236.63217163085938
+    },
+    {
+      "id": "The Waste Land",
+      "x": 1459.5753173828125,
+      "y": -203.4539794921875
+    },
+    {
+      "id": "The Love Song of J. Alfred Prufrock",
+      "x": 1446.0240478515625,
+      "y": -82.78480529785156
+    },
+    {
+      "id": "British and American Literature/Tennessee Williams.md",
+      "x": 1040.28515625,
+      "y": 40.81434631347656
+    },
+    {
+      "id": "British and American Literature/Terry Eagleton.md",
+      "x": 452.5785217285156,
+      "y": 1868.6083984375
+    },
+    {
+      "id": "British and American Literature/The Adventures of Huckleberry Finn.md",
+      "x": -811.2520751953125,
+      "y": 380.9567565917969
+    },
+    {
+      "id": "British and American Literature/The American Dream.md",
+      "x": 1739.5582275390625,
+      "y": -1218.14013671875
+    },
+    {
+      "id": "British and American Literature/The Beat Generation.md",
+      "x": -631.4535522460938,
+      "y": 1033.944091796875
+    },
+    {
+      "id": "Jack Kerouac",
+      "x": -492.723388671875,
+      "y": 1282.456787109375
+    },
+    {
+      "id": "Gary Snyder",
+      "x": -611.978271484375,
+      "y": 1305.6611328125
+    },
+    {
+      "id": "British and American Literature/The Chain of History.md",
+      "x": 113.67758178710938,
+      "y": -114.30130004882812
+    },
+    {
+      "id": "British and American Literature/The Emperor Jones.md",
+      "x": 500.35906982421875,
+      "y": -1566.925048828125
+    },
+    {
+      "id": "British and American Literature/The Fall of the House of Usher.md",
+      "x": -836.2069091796875,
+      "y": -294.3514404296875
+    },
+    {
+      "id": "British and American Literature/The French Lieutenant's Woman.md",
+      "x": -529.2933959960938,
+      "y": 658.200439453125
+    },
+    {
+      "id": "British and American Literature/The Great Gatsby.md",
+      "x": -762.08740234375,
+      "y": -647.4501342773438
+    },
+    {
+      "id": "British and American Literature/The Hairy Ape.md",
+      "x": 435.1313781738281,
+      "y": -387.88262939453125
+    },
+    {
+      "id": "British and American Literature/The Iceman Cometh.md",
+      "x": 470.6199951171875,
+      "y": -1199.742919921875
+    },
+    {
+      "id": "British and American Literature/The Negro Speaks of Rivers.md",
+      "x": 1177.826171875,
+      "y": 1326.446533203125
+    },
+    {
+      "id": "British and American Literature/The New York School.md",
+      "x": 1225.7261962890625,
+      "y": -1190.705810546875
+    },
+    {
+      "id": "British and American Literature/The Remains of the Day.md",
+      "x": -1183.1676025390625,
+      "y": -828.1036376953125
+    },
+    {
+      "id": "British and American Literature/The Scarlet Letter.md",
+      "x": -1655.736083984375,
+      "y": -1168.922607421875
+    },
+    {
+      "id": "British and American Literature/The Triumph of the Egg.md",
+      "x": -178.66830444335938,
+      "y": -376.91400146484375
+    },
+    {
+      "id": "British and American Literature/The Weary Blues.md",
+      "x": 1235.407470703125,
+      "y": 1196.875732421875
+    },
+    {
+      "id": "British and American Literature/Theory.md",
+      "x": 755.5233154296875,
+      "y": 1062.2374267578125
+    },
+    {
+      "id": "British and American Literature/Thomas Hardy.md",
+      "x": -1534.32177734375,
+      "y": 470.7263488769531
+    },
+    {
+      "id": "British and American Literature/Thomas Pynchon.md",
+      "x": -738.734375,
+      "y": 1635.8040771484375
+    },
+    {
+      "id": "British and American Literature/Transcendentalism.md",
+      "x": -1291.1533203125,
+      "y": -1083.982666015625
+    },
+    {
+      "id": "British and American Literature/Trifles.md",
+      "x": 1747.005859375,
+      "y": 150.0393524169922
+    },
+    {
+      "id": "British and American Literature/V.S. Naipaul.md",
+      "x": -998.234375,
+      "y": -1466.5416259765625
+    },
+    {
+      "id": "British and American Literature/Victorian Realistic Novels.md",
+      "x": -1625.9578857421875,
+      "y": 49.43938446044922
+    },
+    {
+      "id": "British and American Literature/Viktor Shklovsky.md",
+      "x": 832.2196655273438,
+      "y": 1351.584228515625
+    },
+    {
+      "id": "British and American Literature/Virginia Woolf.md",
+      "x": -1496.82568359375,
+      "y": 969.5437622070312
+    },
+    {
+      "id": "British and American Literature/Vladimir Nabokov.md",
+      "x": -1041.26708984375,
+      "y": 1568.216796875
+    },
+    {
+      "id": "British and American Literature/W.B. Yeats.md",
+      "x": 968.3300170898438,
+      "y": -174.3048858642578
+    },
+    {
+      "id": "British and American Literature/W.H. Auden.md",
+      "x": -1200.185302734375,
+      "y": 1157.3465576171875
+    },
+    {
+      "id": "British and American Literature/Waiting for Godot.md",
+      "x": 1560.887939453125,
+      "y": -880.4012451171875
+    },
+    {
+      "id": "British and American Literature/Walden.md",
+      "x": -1307.900146484375,
+      "y": -1527.256591796875
+    },
+    {
+      "id": "British and American Literature/Wallace Stevens.md",
+      "x": 710.4732666015625,
+      "y": -1002.151123046875
+    },
+    {
+      "id": "British and American Literature/Walt Whitman.md",
+      "x": -1082.846923828125,
+      "y": -1059.6417236328125
+    },
+    {
+      "id": "British and American Literature/Who's Afraid of Virginia Woolf.md",
+      "x": 889.2413940429688,
+      "y": -1439.273681640625
+    },
+    {
+      "id": "British and American Literature/William Blake.md",
+      "x": 572.9498291015625,
+      "y": -230.62136840820312
+    },
+    {
+      "id": "British and American Literature/William Burroughs.md",
+      "x": -634.7514038085938,
+      "y": 1470.914306640625
+    },
+    {
+      "id": "British and American Literature/William Carlos Williams.md",
+      "x": 537.9780883789062,
+      "y": -836.8136596679688
+    },
+    {
+      "id": "British and American Literature/William Dean Howells.md",
+      "x": -1794.2509765625,
+      "y": 177.47523498535156
+    },
+    {
+      "id": "British and American Literature/William Faulkner.md",
+      "x": -1292.7781982421875,
+      "y": 403.387451171875
+    },
+    {
+      "id": "British and American Literature/William Golding.md",
+      "x": -859.7576904296875,
+      "y": -1423.767822265625
+    },
+    {
+      "id": "British and American Literature/William Shakespeare.md",
+      "x": 148.2277374267578,
+      "y": -317.51507568359375
+    },
+    {
+      "id": "British and American Literature/William Wordsworth.md",
+      "x": 710.0245361328125,
+      "y": -268.3086853027344
+    },
+    {
+      "id": "British and American Literature/Working class.md",
+      "x": 459.3861999511719,
+      "y": 430.9371643066406
+    },
+    {
+      "id": "British and American Literature/Wuthering Heights.md",
+      "x": -804.1347045898438,
+      "y": -472.8720397949219
+    },
+    {
+      "id": "British and American Literature/Young Goodman Brown.md",
+      "x": -1360.61279296875,
+      "y": -525.90771484375
+    },
+    {
+      "id": "British and American Literature/研究方法.md",
+      "x": 1082.740478515625,
+      "y": 332.0054626464844
+    },
+    {
+      "id": "Excalidraw/Araby analysis.md",
+      "x": 2170.01513671875,
+      "y": 476.0871276855469
+    },
+    {
+      "id": "centre.md",
+      "x": 1597.262939453125,
+      "y": 447.2003479003906
+    },
+    {
+      "id": "#sciencefiction",
+      "x": -1631.2869873046875,
+      "y": -1010.7342529296875
+    },
+    {
+      "id": "#Sexuality",
+      "x": -107.22802734375,
+      "y": 649.0389404296875
+    },
+    {
+      "id": "#Psychological",
+      "x": -273.9130859375,
+      "y": 468.3999938964844
+    },
+    {
+      "id": "#psychoanalysis",
+      "x": 506.5018310546875,
+      "y": 1475.1962890625
+    },
+    {
+      "id": "#proletarization",
+      "x": 626.9688110351562,
+      "y": -440.36419677734375
+    },
+    {
+      "id": "#fathersandsons",
+      "x": -281.657958984375,
+      "y": -658.767333984375
+    },
+    {
+      "id": "#Tragedy",
+      "x": 1665.2080078125,
+      "y": -409.17205810546875
+    },
+    {
+      "id": "#Expressionism",
+      "x": 1772.3817138671875,
+      "y": -355.19891357421875
+    },
+    {
+      "id": "#TheatreofAbsurd",
+      "x": 1761.522216796875,
+      "y": -839.8272094726562
+    },
+    {
+      "id": "#Irish",
+      "x": 257.5758056640625,
+      "y": 673.9937133789062
+    },
+    {
+      "id": "#Gothic",
+      "x": -627.064453125,
+      "y": -278.3318176269531
+    },
+    {
+      "id": "#emptinessof1960",
+      "x": 532.53125,
+      "y": -1851.376220703125
+    },
+    {
+      "id": "#Hypocrisy",
+      "x": -542.6599731445312,
+      "y": -596.58349609375
+    },
+    {
+      "id": "#UnrealiableNarrative",
+      "x": -1170.6787109375,
+      "y": -180.91632080078125
+    },
+    {
+      "id": "#Ethicalconcern",
+      "x": -1239.6268310546875,
+      "y": -291.8937072753906
+    },
+    {
+      "id": "#Marxism",
+      "x": -863.8052978515625,
+      "y": -107.22686767578125
+    },
+    {
+      "id": "#Quixotic",
+      "x": -752.5359497070312,
+      "y": 206.8738555908203
+    },
+    {
+      "id": "#Streamofconsciousness",
+      "x": -896.579345703125,
+      "y": 169.59600830078125
+    },
+    {
+      "id": "#Framestory",
+      "x": -1292.407470703125,
+      "y": 557.8126831054688
+    },
+    {
+      "id": "#bildungsroman",
+      "x": -1130.786865234375,
+      "y": -50.75351333618164
+    },
+    {
+      "id": "#puritan",
+      "x": -1748.4951171875,
+      "y": -648.9918823242188
+    },
+    {
+      "id": "#faith",
+      "x": 1233.307861328125,
+      "y": 503.77593994140625
+    },
+    {
+      "id": "#excalidraw",
+      "x": 1950.1285400390625,
+      "y": 472.974365234375
+    },
+    {
+      "id": "British and American Literature/Charles Dickens.md",
+      "x": -1929.5594482421875,
+      "y": 43.89750289916992
+    },
+    {
+      "id": "British and American Literature/Ralph Waldo Emerson.md",
+      "x": -1487.8048095703125,
+      "y": -1299.4127197265625
+    },
+    {
+      "id": "British and American Literature/写作.md",
+      "x": 1090.089599609375,
+      "y": 597.4978637695312
+    },
+    {
+      "id": "British and American Literature/南大2022.md",
+      "x": 1487.7501220703125,
+      "y": 326.62176513671875
+    },
+    {
+      "id": "British and American Literature/南大题型.md",
+      "x": 1611.5076904296875,
+      "y": 636.5377807617188
+    },
+    {
+      "id": "British and American Literature/历史年表.md",
+      "x": 1314.96484375,
+      "y": 292.1048278808594
+    },
+    {
+      "id": "British and American Literature/政治.md",
+      "x": 1425.5552978515625,
+      "y": 582.1063232421875
+    },
+    {
+      "id": "British and American Literature/法语.md",
+      "x": 1325.8365478515625,
+      "y": 427.3748474121094
+    },
+    {
+      "id": "British and American Literature/翻译.md",
+      "x": 1857.8046875,
+      "y": 734.3814697265625
+    },
+    {
+      "id": "British and American Literature/问题.md",
+      "x": 1207.760009765625,
+      "y": 621.0161743164062
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

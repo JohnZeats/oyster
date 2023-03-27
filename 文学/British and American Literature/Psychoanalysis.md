@@ -1,0 +1,3 @@
+#Psychoanalysis
+[[Oedipus complex]]
+

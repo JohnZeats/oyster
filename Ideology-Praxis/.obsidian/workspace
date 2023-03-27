@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "1d5d6a6132e51d5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a614a97a60127340",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Improvement/Category d'étude.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d4d4be22d485527",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce2ae4cb62c8c292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e00febb6f90eb17c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8991fbca400bffe5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "729d75fff5736b3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cd71118c6541dbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed531151cd2905da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "37172995526a5c09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Improvement/Category d'étude.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6948e1eeb132e362",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18491d94021cd02d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Improvement/Category d'étude.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a614a97a60127340",
+  "lastOpenFiles": [
+    "Improvement/Python.md",
+    "Marketing/SEO Workflow.md",
+    "Marketing/海外运营总览.md",
+    "Improvement/Category d'étude.md",
+    "Work Record/20220124.md",
+    "Files/Pasted image 20220122202034.png",
+    "Files/Pasted image 20220122203830.png",
+    "Files/Pasted image 20220123131641.png",
+    "Files/Pasted image 20220205165643.png",
+    "未命名思维导图.md"
+  ]
+}
